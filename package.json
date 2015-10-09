@@ -19,5 +19,8 @@
   "homepage": "https://github.com/FormulaPages/index2row#readme",
   "dependencies": {
     "formula-constants": "^1.0.3"
+  },
+  "devDependencies": {
+    "formula-errors": "^1.0.2"
   }
 }
