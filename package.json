@@ -1,0 +1,23 @@
+{
+  "name": "formula-index2row",
+  "version": "1.0.0",
+  "description": "INDEX2ROW function",
+  "main": "INDEX2ROW.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel INDEX2ROW.es6 -m umd --out-file INDEX2ROW.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/index2row.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/index2row/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/index2row#readme",
+  "dependencies": {
+    "formula-constants": "^1.0.3"
+  }
+}
